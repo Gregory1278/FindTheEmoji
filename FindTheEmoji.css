@@ -1,5 +1,16 @@
-img{
+body {
+    margin: 0px;
+    padding: 0px
+}
+
+h1 {
     position: absolute;
-    top: 500px;
+    top: 100px;
     left: 500px;
+    color: rgba(232, 227, 78, 0.81);
+}
+
+h2 {
+    position: absolute;
+    margin: 0 auto;
 }
